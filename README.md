@@ -53,7 +53,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
