@@ -46,11 +46,12 @@
 </div>
 
 ###
-###
 
+### ✨ GitHub Trophies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coded-vinay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=coded-vinay&theme=radical&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
