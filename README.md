@@ -17,25 +17,20 @@
   </a> 
 </p>
 
-## 📊 GitHub Stats  
+ 📊 GitHub Stats  
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coded-Vinay&show_icons=true&theme=radical" alt="Coded-Vinay's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-Vinay&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coded-Vinay&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coded-Vinay&show_icons=true&theme=light&hide_border=true" alt="Coded-Vinay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-Vinay&theme=light&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coded-Vinay&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
 </p>
- 📆 GitHub Contribution Calendar  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Coded-Vinay/Coded-Vinay/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-## 🚀 Activity Graph  
+🚀 Activity Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coded-Vinay&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
