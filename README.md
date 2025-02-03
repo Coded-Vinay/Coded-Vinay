@@ -1,5 +1,4 @@
 
-
 <h2 align="center">Hey there 👋</h2>
 
 ###
@@ -8,15 +7,37 @@
 
 <p align="left">👨‍💻 Vinay Chaudhary<br>🔍 Senior Quality Analyst | Automation & Manual Testing Expert<br><br>🚀 With 5+ years of experience in quality assurance, I specialize in ensuring seamless software performance by leveraging both manual and automated testing strategies. My passion for delivering high-quality products drives me to continually improve processes and tools that enhance overall efficiency.</p>
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=coded-vinay&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=coded-vinay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Coded-Vinay&label=Profile%20views&color=0e75b6&style=flat" alt="Coded-Vinay" /> 
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coded-vinay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Coded-Vinay" alt="Coded-Vinay" />
+  </a> 
+</p>
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coded-Vinay&show_icons=true&theme=radical" alt="Coded-Vinay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-Vinay&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coded-Vinay&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+ 📆 GitHub Contribution Calendar  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coded-Vinay/Coded-Vinay/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+## 🚀 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coded-Vinay&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 ###
 <h3 align="left">🛠 Language and tools</h3>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -45,11 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
 </div>
 
-###
-
-### ✨ GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=coded-vinay&theme=radical&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
