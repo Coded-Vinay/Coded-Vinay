@@ -21,8 +21,9 @@
 
 
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Coded-Vinay&show_icons=true&theme=light&hide_border=true" alt="Coded-Vinay's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-Vinay&theme=light&hide_border=true" alt="GitHub Streak Stats" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coded-vinay&" alt="coded-vinay" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coded-Vinay&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
 </p>
 🚀 Activity Graph  
