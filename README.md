@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<p align="left">👨‍💻 Vinay Chaudhary<br>🔍 Senior Quality Analyst | Automation & Manual Testing Expert<br><br>🚀 With 5+ years of experience in quality assurance, I specialize in ensuring seamless software performance by leveraging both manual and automated testing strategies. My passion for delivering high-quality products drives me to continually improve processes and tools that enhance overall efficiency.</p>
+<p align="left">👨‍💻 Vinay Chaudhary<br>🔍 Senior Quality Analyst | Automation & Manual Testing Expert<br><br>🚀 With close to 6 years of experience in quality assurance, I specialize in ensuring seamless software performance by leveraging both manual and automated testing strategies. My passion for delivering high-quality products drives me to continually improve processes and tools that enhance overall efficiency.</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Coded-Vinay&label=Profile%20views&color=0e75b6&style=flat" alt="Coded-Vinay" /> 
